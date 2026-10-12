@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466592544922",
+    "project_id": "melumi-89d6e",
+    "storage_bucket": "melumi-89d6e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466592544922:android:0bf64a94e25cfca324c723",
+        "android_client_info": {
+          "package_name": "vn.edu.thanhngan.melumi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466592544922-4q8gjst47l6s1ta0lh4uaktoqr2o9ta1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVCa8MTKfHxWFk2uey3tg2Cq2gss84tXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466592544922-4q8gjst47l6s1ta0lh4uaktoqr2o9ta1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

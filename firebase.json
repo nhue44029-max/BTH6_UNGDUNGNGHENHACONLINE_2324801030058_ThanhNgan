@@ -1,0 +1,30 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "melumi-89d6e",
+          "appId": "1:466592544922:android:0bf64a94e25cfca324c723",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "melumi-89d6e",
+          "configurations": {
+            "android": "1:466592544922:android:0bf64a94e25cfca324c723",
+            "web": "1:466592544922:web:569c6a8d094927b824c723"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "rewrites": [{"source": "**", "destination": "/index.html"}]
+  }
+}
